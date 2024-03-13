@@ -47,10 +47,10 @@ flutter run
 - Submit a pull request to fix your code or add new features. 
 
 ## Screenshots 
-<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/021a11d7-d9c4-428d-92db-9ed17de21561" width="300" height="600">
-<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/a2fefd07-ef22-47f6-8f4d-f396eb2372f8" width="300" height="600">
-<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/8fd0e934-430c-4c84-8c42-c8747d513b1c" width="300" height="600">
-<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/205715e7-dba9-47bb-9d4d-7f5e3a692df6" width="300" height="600">
+<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/021a11d7-d9c4-428d-92db-9ed17de21561" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/a2fefd07-ef22-47f6-8f4d-f396eb2372f8" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/8fd0e934-430c-4c84-8c42-c8747d513b1c" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/205715e7-dba9-47bb-9d4d-7f5e3a692df6" width="200" height="400">
 ---
 #Türkçe Readme
 ---
@@ -105,7 +105,7 @@ flutter run
 
 
 ## Ekran görüntüsü 
-<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/021a11d7-d9c4-428d-92db-9ed17de21561" width="300" height="600">
-<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/a2fefd07-ef22-47f6-8f4d-f396eb2372f8" width="300" height="600">
-<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/8fd0e934-430c-4c84-8c42-c8747d513b1c" width="300" height="600">
-<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/205715e7-dba9-47bb-9d4d-7f5e3a692df6" width="300" height="600">
+<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/021a11d7-d9c4-428d-92db-9ed17de21561" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/a2fefd07-ef22-47f6-8f4d-f396eb2372f8" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/8fd0e934-430c-4c84-8c42-c8747d513b1c" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/205715e7-dba9-47bb-9d4d-7f5e3a692df6" width="200" height="400">
