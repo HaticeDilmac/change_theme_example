@@ -51,9 +51,8 @@ flutter run
 <img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/a2fefd07-ef22-47f6-8f4d-f396eb2372f8" width="200" height="400">
 <img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/8fd0e934-430c-4c84-8c42-c8747d513b1c" width="200" height="400">
 <img src="https://github.com/HaticeDilmac/change_theme_example/assets/100489350/205715e7-dba9-47bb-9d4d-7f5e3a692df6" width="200" height="400">
----
-#Türkçe Readme
----
+
+
 
 # Tema Değiştirme Uygulaması
 
